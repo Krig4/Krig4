@@ -19,7 +19,6 @@ Soy un estudiante de segundo año de desarrollo de aplicaciones web apasionado p
  - [Construcción]
 
 ## Contacto
-- [LinkedIn](www.linkedin.com/in/albertoguerra4)
 - [Correo electrónico](mailto:albertoguerra4@gmail.com)
 
 ## Estoy buscando colaborar en
