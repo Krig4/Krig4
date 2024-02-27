@@ -12,7 +12,7 @@ Soy un estudiante de segundo año de desarrollo de aplicaciones web apasionado p
 
 ## Lo que estoy aprendiendo actualmente
 - Mejorar mis habilidades en desarrollo web con React y Node.js.
-- Explorando el desarrollo de aplicaciones móviles con React Native.
+- Explorando el desarrollo front y backend.
 - Aprender más sobre la arquitectura de microservicios y contenedores.
 
 ## Proyectos destacados
