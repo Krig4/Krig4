@@ -1,7 +1,7 @@
 # ¡Hola, soy Alberto Guerra! 👋
 
 ## Acerca de mí
-Soy un estudiante de segundo año de desarrollo de aplicaciones web apasionado por la tecnología y la creación de soluciones web innovadoras. Mi objetivo es aprender constantemente y contribuir al mundo de la programación y el desarrollo web.
+Soy técnico superior de desarrollo de aplicaciones web apasionado por la tecnología y la creación de soluciones web innovadoras. Mi objetivo es aprender constantemente y contribuir al mundo de la programación y el desarrollo web.
 
 ## Mis habilidades
 - Desarrollo web front-end y back-end
