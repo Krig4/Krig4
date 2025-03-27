@@ -1,25 +1,26 @@
-# ¡Hola, soy Alberto Guerra! 👋
+# Hola, soy Alberto Guerra! 👋
 
 ## Acerca de mí
-Soy técnico superior de desarrollo de aplicaciones web apasionado por la tecnología y la creación de soluciones web innovadoras. Mi objetivo es aprender constantemente y contribuir al mundo de la programación y el desarrollo web.
+Soy **Técnico Superior en Desarrollo de Aplicaciones Web** con una gran pasión por la tecnología y la creación de soluciones web innovadoras. Mi objetivo es seguir aprendiendo y contribuir activamente al mundo del desarrollo web, buscando siempre mejorar mis habilidades y aportar valor a cada proyecto en el que participo.
 
 ## Mis habilidades
-- Desarrollo web front-end y back-end
-- Lenguajes de programación: HTML, CSS, JavaScript, PHP, C#
-- Base de datos: MySQL
-- Control de versiones: Git
-- Resolución de problemas y programación competitiva
+- **Frontend:** Next.Js, Astro, React, HTML, CSS, JavaScript, Bootstrap y Tailwind CSS.
+- **Backend:** C#, PHP y Java.
+- **Bases de Datos:** MySQL, SQL Server y MongoDB.
+- **Herramientas:** Git, GitHub y Figma.
 
 ## Lo que estoy aprendiendo actualmente
-- Mejorar mis habilidades en desarrollo web con React y Node.js.
-- Explorando el desarrollo front y backend.
-- Aprender más sobre la arquitectura de microservicios y contenedores.
+- Mejorando mis habilidades con **Astro** y **Next.js**.
+- Explorando más sobre la **arquitectura de microservicios** y **contenedores**.
+- Aprendiendo sobre el desarrollo de aplicaciones **full-stack**.
+- Expandiendo mi conocimiento en lenguajes como **Python** y **Jango**.
 
 ## Proyectos destacados
- - [Construcción]
+- [**Portfolio Web**](https://albertoguerra.vercel.app/): Un portafolio personal para mostrar mis proyectos y habilidades como desarrollador web.
+- [**Krig Burger**](https://github.com/Krig4/Portfolio): Proyecto de desarrollo web para una empresa de eventos, utilizando **Next.js**. (En construcción)
 
 ## Contacto
-- [Correo electrónico](mailto:albertoguerra4@gmail.com)
+📧 [**LinkedIn**](https://www.linkedin.com/in/albertogmartin/) 
 
 ## Estoy buscando colaborar en
 - Proyectos web interesantes y desafiantes.
@@ -27,8 +28,9 @@ Soy técnico superior de desarrollo de aplicaciones web apasionado por la tecnol
 - Conectar con otros estudiantes y profesionales del desarrollo web.
 
 ## Idiomas
-- Español (nativo)
-- Inglés (intermedio)
-- Alemán (básico)
+- **Español** (nativo)
+- **Inglés** (intermedio)
+- **Alemán** (básico)
 
-¡No dudes en ponerte en contacto conmigo si quieres charlar sobre desarrollo web, colaborar en proyectos interesantes o simplemente conectarte! 😄
+¡No dudes en ponerte en contacto conmigo si quieres charlar sobre desarrollo web, colaborar en proyectos o simplemente conectar! 😄
+
