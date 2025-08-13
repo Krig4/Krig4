@@ -16,8 +16,8 @@ Soy **Técnico Superior en Desarrollo de Aplicaciones Web** con una gran pasión
 - Expandiendo mi conocimiento en lenguajes como **Python** y **Jango**.
 
 ## Proyectos destacados
+- [**Kasas Cheesecake**](https://www.kasascheesecake.com/): Web para empresa de venta de tartas en Alcalá de Henares.
 - [**Portfolio Web**](https://albertoguerra.vercel.app/): Un portafolio personal para mostrar mis proyectos y habilidades como desarrollador web.
-- [**Krig Burger**](https://github.com/Krig4/Portfolio): Proyecto de desarrollo web para una empresa de eventos, utilizando **Next.js**. (En construcción)
 
 ## Contacto
 📧 [**LinkedIn**](https://www.linkedin.com/in/albertogmartin/) 
